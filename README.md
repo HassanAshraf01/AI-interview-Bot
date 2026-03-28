@@ -51,8 +51,8 @@ This project focuses on creating a realistic interview experience with proper ti
 ## 📂 Project Setup
 
 ```bash
-git clone https://github.com/your-username/ai-interview-bot.git
-cd ai-interview-bot
+git clone https://github.com/HassanAshraf01/AI-interview-Bot.git
+cd AI-interview-Bot.git
 pip install -r requirements.txt
 python manage.py runserver
 ```
